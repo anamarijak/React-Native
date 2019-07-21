@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Teach Me",
+    "slug": "project",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/around.png",
+    "splash": {
+      "image": "./assets/images/Travel-PNG-Free-Image.png",
+      "backgroundColor": "#d5b895"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": ""
+  }
+}
